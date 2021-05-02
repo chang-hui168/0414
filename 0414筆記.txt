@@ -1,23 +1,19 @@
-1. ­Ü¾e¿é¤Jªk
+1. å€‰é ¡è¼¸å…¥æ³•
 
 2. putty
 
-3. «ü¥O:
+3. æŒ‡ä»¤:
 
-#systemctl »·ºÝ¾Þ±±«ü¥O
+#systemctl é ç«¯æ“æŽ§æŒ‡ä»¤
 
-root¨­¤À¤U
-#init 3
-#init 5
-
-#©R¥O °Ñ¼Æ(©R¥OÅÜ¤Æ) ¤Þ¼Æ(¹ï¶H¡B¼Ðªºª«)
+#å‘½ä»¤ åƒæ•¸(å‘½ä»¤è®ŠåŒ–) å¼•æ•¸(å°è±¡ã€æ¨™çš„ç‰©)
 
 #ls -al /tmp 
 
-#history  ¥H«e´¿¤U¹Lªº«ü¥O
+#history  ä»¥å‰æ›¾ä¸‹éŽçš„æŒ‡ä»¤
 
-#!10 ¥H«e¤U¹Lªº²Ä¤Q¦æ«ü¥O
+#!10 ä»¥å‰ä¸‹éŽçš„ç¬¬åè¡ŒæŒ‡ä»¤
 
-#who ¬d¸ßµn¤JªÌ
+#who æŸ¥è©¢ç™»å…¥è€…
 
-#shutdown Ãö¾÷
+#shutdown é—œæ©Ÿ
